@@ -47,4 +47,41 @@
     margin-right: 280px;
 }
 
-.center_one {}
+.center_one {
+    display: flex;
+    margin-top: 50px;
+}
+
+.mau {
+    color: #BCC1CA;
+    padding-left: 3px;
+    padding-right: 7px;
+}
+
+.mau_one {
+    color: #1E1E1E;
+    padding-left: 3px;
+    padding-right: 7px;
+}
+
+.center_two {
+    font-size: 50px;
+}
+
+.center_three {
+    display: flex;
+    justify-content: space-between;
+}
+
+.center_three-left {
+    display: flex;
+}
+
+.center_three-right {
+    display: flex;
+}
+
+.center_four {
+    display: flex;
+    margin-top: 15px;
+}
