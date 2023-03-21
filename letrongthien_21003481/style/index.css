@@ -85,3 +85,33 @@
     display: flex;
     margin-top: 15px;
 }
+
+.center_five {
+    display: flex;
+    margin-top: 15px;
+}
+
+.center_five_left {
+    width: 780px;
+    height: 410px;
+    background-color: aquamarine;
+}
+
+.center_five_right {
+    width: 420px;
+    height: 410px;
+    background-color: rgb(196, 205, 255);
+}
+
+.lefticon {
+    display: flex;
+}
+
+.lefticon_left-one {
+    display: flex;
+}
+
+.supportlefticon {
+    margin-top: 5px;
+    margin-left: 5px;
+}
